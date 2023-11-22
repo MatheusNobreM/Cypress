@@ -1,0 +1,3 @@
+{
+    "include": ["./nobre_modules/cypress", "cypress/**/*.js"]
+}
